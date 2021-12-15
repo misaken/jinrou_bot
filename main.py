@@ -7,7 +7,7 @@ from linebot.models import (MessageEvent,TextMessage,TextSendMessage,
                             )
 from linebot.models.events import Postback, PostbackEvent
 import random, string, os,  time
-from Class import button,poll,DB
+from func import button,poll,DB
 
 
 app=Flask(__name__)
