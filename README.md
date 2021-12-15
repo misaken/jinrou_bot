@@ -1,1 +1,2 @@
 # jinrou_bot
+LINEのMessagingAPIを用いて作成した人狼ゲーム進行ボット
